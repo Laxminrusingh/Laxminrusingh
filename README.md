@@ -16,8 +16,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rutu_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutu_44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rutuparna-mahalik-94654421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutuparna-mahalik-94654421b/" height="30" width="40" /></a>
+<a href="https://x.com/l_nrusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_nrusingh" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/laxmi-nrusingh-rath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/laxmi-nrusingh-rath/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
