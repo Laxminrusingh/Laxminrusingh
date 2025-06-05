@@ -1,42 +1,30 @@
- <h1>Hi, I'm Laxmi Nrusingh Rath. 👨‍💻✌🏻</h1>
-      <h3>🎯 Crafting Digital Experiences | Web Dev Learner</h3>
-      <ul>
-        <li>🔭 I’m currently studying <strong>Electrical and Computer Engineering</strong>.</li>
-        <li>🌱 I’m currently learning <strong>Web design & Web development</strong>.</li>
-        <li>👯 I’m looking to collaborate on <strong>full-stack web development</strong>.</li>
-        <li>🤝 I’m looking for help with <strong>backend development</strong>.</li>
-        <li>📫 Reach me at: <strong>laxminrusingh8@gmail.com</strong></li>
-      </ul>
-   
+<h1 align="left">Hi, I'm Laxmi Nrusingh Rath. 👨‍💻✌🏻</h1>
+<h3 align="left">Crafting Digital Experiences | Web Dev Enthusiast.</h3>
 
-   </div>
+<img align="right" alt="coding" width="400"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaDJuZW0wb25zYmRjbnhzenNmMndjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
-  <img src="https://camo.githubusercontent.com/9eeea63d63a2a4f196918bbc82249f2c6c821d255ddf20cb8fe6c2dc1493a973/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863325272646a6c6b4e4449774e5464715a5739745933637a61444a755a5730776232357a596d526a626e687a656e4e6d4d6e646a5a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236746e333361695469316a6b6c3648362f67697068792e676966" 
-       alt="Coding Animation" width="350" style="margin-left: 20px;" />
+- 🔭 I’m currently studying **Electrical and Computer Engineering.**
 
-</div>
+- 🌱 I’m currently learning **Web design & Web development.**
 
-### 🔗 Connect with me:
+- 👯 I’m looking to collaborate on **full-stack web development.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/laxmi-nrusingh-rath/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter)](https://x.com/l_nrusingh)
+- 🤝 I’m looking for help with **backend development.**
 
----
+- 📫 Reach me at: **laxminrusingh8@gmail.com**
 
-### ⚙️ Languages and Tools:
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rutu_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutu_44" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rutuparna-mahalik-94654421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutuparna-mahalik-94654421b/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutuparna-mahalik&show_icons=true&locale=en&layout=compact" alt="rutuparna-mahalik" /></p>
 
-### 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutuparna-mahalik&show_icons=true&locale=en" alt="rutuparna-mahalik" /></p>
 
-![Laxminrusingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxminrusingh&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxminrusingh&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Laxminrusingh&theme=orange-white&hide_border=true)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutuparna-mahalik&" alt="rutuparna-mahalik" /></p>
