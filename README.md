@@ -1,37 +1,35 @@
-# Hi, I'm Laxmi Nrusingh Rath. 👨‍💻✌
+# 👋 Hi, I'm Laxmi Nrusingh Rath!
 
-## Crafting Digital Experiences | Web Dev Enthusiast.
+🎯 **Crafting Digital Experiences | Web Dev Learner**
 
-- 🧑‍🎓 I’m currently studying **Computer Science and Engineering**
-- 🌱 I’m currently learning **Web design & Web development**
-- 👯 I’m looking to collaborate on **full-stack web development**
-- 🤝 I’m looking for help with **backend development**
-- 📫 How to reach me: [rutuparnamahalik@gmail.com](mailto:rutuparnamahalik@gmail.com)
-
----
-
-### 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+- 👨‍🎓 I'm currently pursuing **Electrical and Computer Engineering** at GIFT, Odisha.
+- 🌐 I'm learning **HTML, CSS, JavaScript, and Web Development**.
+- 💡 I’m interested in **Front-end and full-stack projects**.
+- 📫 Reach me at: **your-email@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
 
 ---
 
-### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUTUPARNA-MAHALIK&layout=compact)
+### ⚙️ Languages and Tools:
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
 ---
 
-### 📈 GitHub Stats:
-![Rutuparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUTUPARNA-MAHALIK&show_icons=true&theme=default)
+### 📊 GitHub Stats
+
+![Laxminrusingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxminrusingh&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxminrusingh&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Laxminrusingh&theme=orange-white&hide_border=true)](https://git.io/streak-stats)
