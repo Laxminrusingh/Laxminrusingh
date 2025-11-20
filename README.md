@@ -59,14 +59,16 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaD
 ---
 
 ## 📊 GitHub Stats
+
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Laxminrusingh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxminrusingh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxminrusingh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxminrusingh&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-<img align="center" src="https://streak-stats.demolab.com?user=Laxminrusingh&theme=orange-white&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Laxminrusingh&theme=orange-white&hide_border=true" />
 </p>
+
