@@ -4,10 +4,10 @@
 <img align="right" alt="coding" width="400" 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaDJuZW0wb25zYmRjbnhzenNmMndjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
-- 🔭 I’m currently studying **Electrical and Computer Engineering**  
-- 🌱 Currently learning **Data Science, Machine Learning & MERN Stack**  
-- 👯 Open to collaborate on **Full-Stack & Data-Driven Projects**  
-- 🤝 Looking for help with **Backend & ML model deployment**  
+- 🔭 I’m currently studying **Electrical and Computer Engineering**
+- 🌱 Currently learning **Data Science, Machine Learning & MERN Stack**
+- 👯 Open to collaborate on **Full-Stack & Data-Driven Projects**
+- 🤝 Looking for help with **Backend & ML model deployment**
 - 📫 Reach me at **laxminrusingh8@gmail.com**
 
 ---
@@ -25,35 +25,35 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaD
 ---
 
 ## 🛠️ Languages & Tools (Web + Data Science)
-### 💻 **Programming Languages**
+
+### 💻 Programming Languages
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </p>
 
-### 🌐 **Frontend Development**
+### 🌐 Frontend Development
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
 </p>
 
-### 🧪 **Data Science & Machine Learning**
+### 🧪 Data Science & Machine Learning
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 </p>
 
-### 🛢️ **Database & Backend**
+### 🛢️ Backend & Databases
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 </p>
 
 ---
