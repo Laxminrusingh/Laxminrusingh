@@ -68,7 +68,3 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RrdjlkNDIwNTdqZW9tY3czaD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxminrusingh&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Laxminrusingh&theme=orange-white&hide_border=true" />
-</p>
-
